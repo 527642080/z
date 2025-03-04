@@ -191,11 +191,6 @@ CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 
 
 央视卫视,#genre#
-山东齐鲁,http://8.146.211.219:2000/live_tv?pid=cff61335080bbb66265e31b00a33b7d1
-山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
-山东齐鲁,http://123.129.70.178:9901/tsfile/live/0019_1.m3u8
-山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8
-山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
 CCTV-1,http://8.146.211.219:2000/live_tv?pid=77c7502e4028637719fee11db858cfe8
 CCTV-2,http://8.146.211.219:2000/live_tv?pid=9ec2ea96b64204352282a7c21569de86
 CCTV-3,http://8.146.211.219:2000/live_tv?pid=e4d4c1293e8282d599ce95d5b309ab5d
